@@ -28,6 +28,7 @@ Backend
 - Auto-set createdAt
 - Clean architecture (Controller / Service / Repository)
 
+---
 **Output ScreenShots**
 
 1. Backend Details: <img width="1914" height="981" alt="Backend_details" src="https://github.com/user-attachments/assets/3b649a06-1e04-4f3e-81ca-922a1ee8f7c3" />
@@ -43,7 +44,8 @@ Backend
 
 5.Edit_options:
 <img width="1913" height="961" alt="Edit_options" src="https://github.com/user-attachments/assets/333e7277-63a5-4703-bff2-0317e0b760bc" />
-options:
+
+---
 
 Demo Video link:https://github.com/user-attachments/assets/867712fa-a76e-4d07-bb5c-08c23614f996
 
